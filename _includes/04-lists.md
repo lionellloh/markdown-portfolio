@@ -1,5 +1,3 @@
-Item 1
-Item 2
-Item 3
-Item 3a
-Item 3b
+1. Coding
+2. Running
+3. Reading
